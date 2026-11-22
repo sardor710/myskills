@@ -6,6 +6,7 @@ My Claude Code skills and subagents.
 
 - `skills/` — skills. Copy a folder into `~/.claude/skills/`.
 - `agents/` — subagents (one `.md` per agent). Copy into `~/.claude/agents/`.
+- `plugins/` — full copies of the installed plugins `agentic-council` (Apache-2.0, by Daniel Song) and `superpowers` (MIT, by Jesse Vincent), each with its own skills, agents and `LICENSE`. Originals: github.com/dtsong/agentic-council and github.com/obra/superpowers.
 
 ## Licenses
 
